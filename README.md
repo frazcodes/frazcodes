@@ -4,7 +4,7 @@
   
   <h1>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="35" />
-    Ahmad Fraz
+    Ahmad Faraz
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="35" />
   </h1>
   
@@ -17,7 +17,7 @@
 ## 👨‍💻 **About Me**
 
 ```python
-class AhmadFraz:
+class AhmadFaraz:
     def __init__(self):
         self.role = "Machine Learning Enthusiast | Software Developer"
         self.skills = ["Python", "FastAPI", "React", "Data Analysis"]
